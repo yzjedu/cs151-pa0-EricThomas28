@@ -49,5 +49,5 @@
     - **YES-NO**
 
 ### Comments on the grading
-- Nothing to grade here, maybe you forgot to push your files
-### Grade: N
+- There is no code here
+### Grade: R
